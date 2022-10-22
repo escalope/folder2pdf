@@ -39,4 +39,4 @@ The bookmarks panel shows how the two inserted files within a single document wi
 
 ![image](https://user-images.githubusercontent.com/3056482/197363954-72930b5f-6f29-486e-9f88-207eda23e792.png)
 
-
+The resulting file can be downloaded from [https://github.com/escalope/folder2pdf/blob/main/final.pdf](https://github.com/escalope/folder2pdf/blob/main/final.pdf)
