@@ -14,5 +14,6 @@ The software that needs to be installed is the following:
 # Running it
 
 If the folder to be converted is FOLDER, the command would be
+
     python3 folder2pdf.py FOLDER
 
